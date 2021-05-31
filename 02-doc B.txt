@@ -1,1 +1,2 @@
 Este es mi documento B original.
+HOLA MUNDO
